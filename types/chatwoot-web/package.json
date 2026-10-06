@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/chatwoot-web",
+    "version": "4.16.9999",
+    "projects": [
+        "https://www.chatwoot.com/hc/user-guide/articles/1677587234-how-to-send-additional-user-information-to-chatwoot-using-sdk",
+        "https://github.com/chatwoot/chatwoot"
+    ],
+    "nonNpm": true,
+    "nonNpmDescription": "Chatwoot website SDK",
+    "devDependencies": {
+        "@types/chatwoot-web": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "David Kubeš",
+            "githubUsername": "KubesDavid"
+        }
+    ]
+}
